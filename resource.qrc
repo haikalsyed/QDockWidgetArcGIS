@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/Icons">
+        <file>change.png</file>
+        <file>addqml.png</file>
+        <file>addcpp.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
